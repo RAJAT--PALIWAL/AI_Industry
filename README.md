@@ -11,3 +11,8 @@ It is becoming harder for me to keep track of progress AI is making everyday and
 ## Sound
 
 ## Mix
+
+# Undefined
+
+## Human Activity Recognition
+https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/
